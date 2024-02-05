@@ -1,4 +1,5 @@
-# Hello there 👋, I'm Zeeshan Adil! 
+# Hello there 👋, I'm Zeeshan Adil!                                                                               <div dir="rtl">![GitHub Views](https://komarev.com/ghpvc/?username=zees007&abbreviated=true)</div>
+
 
 ###
 
