@@ -104,7 +104,7 @@
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" height="30" alt="lua logo"  />
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-plain.svg" height="30" alt="lua logo"  />
  <img width="12" />
 </div>
 
